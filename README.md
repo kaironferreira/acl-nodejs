@@ -19,7 +19,7 @@
 ## Como Baixar e Instalar ?
 
 ``` bash
-$ git clone
+$ git clone https://github.com/kaironferreira/acl-nodejs.git
 $ yarn 
 $ yarn start
 
